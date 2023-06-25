@@ -1,2 +1,2 @@
-# zcp
-Ztrolix Command Prompt
+# ZCP
+### Ztrolix Command Prompt
