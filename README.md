@@ -1,0 +1,2 @@
+# zcp
+Ztrolix Command Prompt
